@@ -6,3 +6,4 @@ for word in product('SKOLA', repeat=3):
     if word.count('K') == 1:
         c += 1
 print(c)
+#

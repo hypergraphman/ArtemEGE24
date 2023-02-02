@@ -6,3 +6,4 @@ for word in permutations('kapkan'):
     if 'kk' not in word and 'aa' not in word:
         s.add(word)
 print(len(s))
+#
